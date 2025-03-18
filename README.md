@@ -85,7 +85,7 @@ Bu proje **MIT Lisansı** altında sunulmuştur. İstediğiniz gibi kullanabilir
 
 ## 👤 Yazar
 **İsim Soyisim**  
-[GitHub Profiliniz](https://github.com/bektas-sari)
+[Bektas SARI](https://github.com/bektas-sari)
 
 ---
 
